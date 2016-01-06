@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="g06_Lab5">
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_elapsed_time:ElapsedTime|g06_SECONDS_TIMER:inst1|LPM_COUNTER:inst2" CBX_FILE_NAME="cntr_cfl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_speed_calories:SpeedCalories|lpm_mult:Mult1|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_8ch.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_rowerpower_calculator:RowerPowerCalculator|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_3ch.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_rowerpower_calculator:RowerPowerCalculator|lpm_mult:Mult1" CBX_FILE_NAME="mult_v6t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_speed_calories:SpeedCalories|LPM_ROM:crc_table|altrom:srom|altsyncram:rom_block" CBX_FILE_NAME="altsyncram_k601.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_speed_calories:SpeedCalories|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_7ch.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_speed_calories:SpeedCalories|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_9ch.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_total_calories:TotalCalories|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_6ch.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_total_calories:TotalCalories|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_ach.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_SECONDS_TIMER:SecondsTimer|LPM_COUNTER:inst2" CBX_FILE_NAME="cntr_cfl.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g06_Rower_Machine|g06_speed_calories:SpeedCalories|lpm_mult:Mult1|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_5ch.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

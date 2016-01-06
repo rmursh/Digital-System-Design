@@ -1,0 +1,7 @@
+
+State Machine - |g06_Rower_Machine|g06_FSM_controller:FSMController|state_now
+Name state_now.D state_now.C state_now.B state_now.A 
+state_now.A 0 0 0 0 
+state_now.B 0 0 1 1 
+state_now.C 0 1 0 1 
+state_now.D 1 0 0 1 
